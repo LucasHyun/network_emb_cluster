@@ -1,0 +1,388 @@
+node_39 is communicating with node_34 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_26 protocol_23  with port_6 and port_200 protocol_12  with port_6 and port_140
+node_26 is communicating with node_17 on  protocol_1  with port_6 and port_10 protocol_2  with port_17 and port_762 protocol_6  with port_6 and port_2535
+node_19 is communicating with node_12 on  protocol_1  with port_6 and port_10
+node_6 is communicating with node_40 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_10 protocol_3  with port_17 and port_6
+node_47 is communicating with node_46 on  protocol_1  with port_17 and port_283 protocol_1  with port_6 and port_38
+node_33 is communicating with node_4 on  protocol_9  with port_6 and port_350 protocol_1  with port_6 and port_42 protocol_10  with port_6 and port_55
+node_20 is communicating with node_44 on  protocol_11  with port_6 and port_2293 protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_10
+node_39 is communicating with node_42 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_10 protocol_23  with port_6 and port_200
+node_15 is communicating with node_77 on  protocol_771  with port_6 and port_360
+node_34 is communicating with node_24 on  protocol_1  with port_17 and port_282
+node_47 is communicating with node_6 on  protocol_1  with port_6 and port_16
+node_29 is communicating with node_35 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_10
+node_22 is communicating with node_46 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16
+node_21 is communicating with node_12 on  protocol_1  with port_6 and port_10
+node_31 is communicating with node_39 on  protocol_37  with port_6 and port_46 protocol_2  with port_17 and port_15399 protocol_4  with port_6 and port_1578 protocol_6  with port_6 and port_4110 protocol_773  with port_6 and port_1128
+node_46 is communicating with node_57 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_32
+node_64 is communicating with node_159 on  protocol_3  with port_17 and port_8
+node_43 is communicating with node_34 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_20
+node_36 is communicating with node_14 on  protocol_1  with port_17 and port_284 protocol_19  with port_6 and port_484 protocol_1  with port_6 and port_10
+node_28 is communicating with node_10 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16
+node_27 is communicating with node_11 on  protocol_1  with port_17 and port_282 protocol_775  with port_6 and port_14450 protocol_1  with port_6 and port_26
+node_8 is communicating with node_25 on  protocol_8  with port_6 and port_1066
+node_39 is communicating with node_23 on  protocol_1  with port_17 and port_284 protocol_18  with port_6 and port_494 protocol_1  with port_6 and port_30 protocol_3  with port_17 and port_6 protocol_2  with port_17 and port_510 protocol_23  with port_6 and port_200
+node_44 is communicating with node_24 on  protocol_1  with port_6 and port_30
+node_5 is communicating with node_22 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_20
+node_33 is communicating with node_13 on  protocol_34  with port_6 and port_17613 protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_20 protocol_35  with port_6 and port_38029 protocol_36  with port_6 and port_21
+node_21 is communicating with node_34 on  protocol_1  with port_17 and port_40 protocol_1  with port_6 and port_30
+node_44 is communicating with node_21 on  protocol_1  with port_17 and port_282
+node_2 is communicating with node_14 on  protocol_1  with port_6 and port_10
+node_12 is communicating with node_6 on  protocol_1  with port_17 and port_282
+node_48 is communicating with node_5 on  protocol_1  with port_6 and port_20
+node_4 is communicating with node_46 on  protocol_9  with port_6 and port_15557 protocol_1  with port_6 and port_60 protocol_10  with port_6 and port_37641
+node_57 is communicating with node_31 on  protocol_1  with port_6 and port_16
+node_45 is communicating with node_42 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_10
+node_10 is communicating with node_39 on  protocol_4  with port_17 and port_6 protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_32 protocol_2  with port_17 and port_27078 protocol_4  with port_6 and port_26879 protocol_6  with port_6 and port_12479
+node_42 is communicating with node_12 on  protocol_1  with port_6 and port_20
+node_9 is communicating with node_10 on  protocol_1  with port_6 and port_48
+node_47 is communicating with node_53 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_16 protocol_2  with port_6 and port_114238
+node_28 is communicating with node_44 on  protocol_1  with port_6 and port_20
+node_28 is communicating with node_26 on  protocol_1  with port_17 and port_286 protocol_1  with port_6 and port_30
+node_35 is communicating with node_47 on  protocol_1  with port_6 and port_10
+node_51 is communicating with node_1 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_11
+node_24 is communicating with node_40 on  protocol_1  with port_6 and port_10 protocol_3  with port_17 and port_8
+node_28 is communicating with node_37 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_10
+node_23 is communicating with node_51 on  protocol_31  with port_6 and port_21534
+node_29 is communicating with node_23 on  protocol_1  with port_6 and port_10 protocol_3  with port_17 and port_6
+node_11 is communicating with node_17 on  protocol_37  with port_6 and port_116 protocol_1  with port_17 and port_284 protocol_2  with port_17 and port_14808 protocol_4  with port_6 and port_853 protocol_6  with port_6 and port_6131
+node_43 is communicating with node_27 on  protocol_1  with port_17 and port_282
+node_8 is communicating with node_37 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_20
+node_38 is communicating with node_30 on  protocol_1  with port_6 and port_20
+node_30 is communicating with node_57 on  protocol_1  with port_17 and port_286 protocol_1  with port_6 and port_16
+node_43 is communicating with node_24 on  protocol_1  with port_17 and port_281 protocol_1  with port_6 and port_10
+node_17 is communicating with node_9 on  protocol_1  with port_17 and port_276 protocol_18  with port_6 and port_0
+node_16 is communicating with node_4 on  protocol_9  with port_6 and port_96 protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_32 protocol_10  with port_6 and port_5062
+node_44 is communicating with node_42 on  protocol_1  with port_17 and port_286 protocol_1  with port_6 and port_10
+node_38 is communicating with node_29 on  protocol_1  with port_6 and port_10
+node_36 is communicating with node_16 on  protocol_8  with port_6 and port_586 protocol_1  with port_17 and port_284 protocol_19  with port_6 and port_496 protocol_18  with port_6 and port_5745 protocol_15  with port_6 and port_380 protocol_13  with port_6 and port_380
+node_144 is communicating with node_59 on  protocol_73  with port_17 and port_5
+node_43 is communicating with node_7 on  protocol_12  with port_6 and port_350
+node_154 is communicating with node_59 on  protocol_73  with port_17 and port_9 protocol_74  with port_17 and port_13
+node_33 is communicating with node_51 on  protocol_439  with port_6 and port_2837 protocol_618  with port_6 and port_125134 protocol_394  with port_6 and port_7340 protocol_656  with port_6 and port_119214 protocol_529  with port_6 and port_11995 protocol_631  with port_6 and port_10259 protocol_714  with port_6 and port_282 protocol_445  with port_6 and port_82 protocol_511  with port_6 and port_59397 protocol_749  with port_6 and port_5120 protocol_1  with port_17 and port_280 protocol_473  with port_6 and port_29038 protocol_569  with port_6 and port_4348 protocol_50  with port_6 and port_22 protocol_1  with port_6 and port_20 protocol_518  with port_6 and port_293 protocol_743  with port_6 and port_584 protocol_480  with port_6 and port_7496 protocol_561  with port_6 and port_4571 protocol_441  with port_6 and port_4454 protocol_752  with port_6 and port_137 protocol_398  with port_6 and port_12834 protocol_739  with port_6 and port_2035 protocol_728  with port_6 and port_7345 protocol_723  with port_6 and port_11391 protocol_31  with port_6 and port_235907 protocol_672  with port_6 and port_10837 protocol_413  with port_6 and port_3738 protocol_644  with port_6 and port_14250 protocol_765  with port_6 and port_34
+node_40 is communicating with node_10 on  protocol_1  with port_6 and port_16
+node_23 is communicating with node_4 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_32
+node_16 is communicating with node_39 on  protocol_1  with port_17 and port_282 protocol_5  with port_6 and port_1956 protocol_2  with port_17 and port_5326 protocol_4  with port_6 and port_1623 protocol_6  with port_6 and port_10064
+node_41 is communicating with node_23 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_10 protocol_3  with port_17 and port_8
+node_10 is communicating with node_57 on  protocol_1  with port_6 and port_22 protocol_2  with port_6 and port_42636
+node_17 is communicating with node_15 on  protocol_18  with port_6 and port_0
+node_4 is communicating with node_38 on  protocol_1  with port_17 and port_286 protocol_1  with port_6 and port_42
+node_3 is communicating with node_1 on  protocol_1  with port_17 and port_283 protocol_1  with port_6 and port_16
+node_5 is communicating with node_13 on  protocol_1  with port_6 and port_30
+node_9 is communicating with node_57 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_58
+node_20 is communicating with node_10 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16
+node_8 is communicating with node_38 on  protocol_32  with port_6 and port_12548
+node_27 is communicating with node_41 on  protocol_1  with port_6 and port_10
+node_32 is communicating with node_31 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_10
+node_20 is communicating with node_21 on  protocol_1  with port_6 and port_40 protocol_767  with port_6 and port_14079
+node_41 is communicating with node_4 on  protocol_1  with port_6 and port_42
+node_42 is communicating with node_34 on  protocol_1  with port_6 and port_10
+node_37 is communicating with node_36 on  protocol_4  with port_17 and port_6 protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_10 protocol_2  with port_17 and port_2468 protocol_6  with port_6 and port_18651
+node_16 is communicating with node_49 on  protocol_1  with port_17 and port_284 protocol_43  with port_6 and port_10265 protocol_33  with port_6 and port_23534
+node_24 is communicating with node_32 on  protocol_1  with port_6 and port_30
+node_31 is communicating with node_49 on  protocol_1  with port_17 and port_282 protocol_33  with port_6 and port_2220
+node_8 is communicating with node_57 on  protocol_1  with port_6 and port_16
+node_5 is communicating with node_3 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_10
+node_3 is communicating with node_50 on  protocol_1  with port_6 and port_20
+node_32 is communicating with node_25 on  protocol_8  with port_6 and port_356
+node_47 is communicating with node_36 on  protocol_1  with port_6 and port_16 protocol_2  with port_17 and port_26854 protocol_4  with port_6 and port_26570 protocol_6  with port_6 and port_19475
+node_43 is communicating with node_4 on  protocol_9  with port_6 and port_504 protocol_1  with port_6 and port_26 protocol_10  with port_6 and port_88
+node_28 is communicating with node_42 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_20
+node_27 is communicating with node_28 on  protocol_11  with port_6 and port_12058
+node_50 is communicating with node_44 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_26
+node_41 is communicating with node_28 on  protocol_11  with port_6 and port_14043
+node_34 is communicating with node_7 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_20 protocol_12  with port_6 and port_312
+node_39 is communicating with node_28 on  protocol_1  with port_6 and port_13 protocol_23  with port_6 and port_200
+node_15 is communicating with node_2 on  protocol_2  with port_6 and port_2165
+node_1 is communicating with node_12 on  protocol_1  with port_6 and port_10 protocol_2  with port_6 and port_73796
+node_34 is communicating with node_19 on  protocol_1  with port_6 and port_10
+node_46 is communicating with node_28 on  protocol_1  with port_6 and port_27
+node_42 is communicating with node_15 on  protocol_1  with port_17 and port_282
+node_28 is communicating with node_31 on  protocol_1  with port_17 and port_282
+node_26 is communicating with node_57 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16
+node_51 is communicating with node_27 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_10
+node_67 is communicating with node_94 on  protocol_779  with port_6 and port_1214
+node_51 is communicating with node_30 on  protocol_1  with port_6 and port_74
+node_67 is communicating with node_68 on  protocol_2300  with port_6 and port_1680 protocol_2  with port_17 and port_1158
+node_48 is communicating with node_14 on  protocol_1  with port_6 and port_10
+node_85 is communicating with node_80 on  protocol_8  with port_6 and port_13384
+node_48 is communicating with node_12 on  protocol_1  with port_6 and port_10
+node_3 is communicating with node_26 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_20
+node_9 is communicating with node_46 on  protocol_1  with port_6 and port_10
+node_73 is communicating with node_59 on  protocol_73  with port_17 and port_5 protocol_74  with port_17 and port_3
+node_45 is communicating with node_28 on  protocol_1  with port_6 and port_20
+node_28 is communicating with node_25 on  protocol_8  with port_6 and port_379
+node_23 is communicating with node_17 on  protocol_4  with port_17 and port_4 protocol_5  with port_6 and port_783 protocol_1  with port_6 and port_20 protocol_2  with port_17 and port_10770 protocol_4  with port_6 and port_1837 protocol_6  with port_6 and port_17202
+node_19 is communicating with node_45 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_10
+node_19 is communicating with node_43 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_10
+node_17 is communicating with node_34 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_13 protocol_18  with port_6 and port_0
+node_42 is communicating with node_33 on  protocol_1  with port_17 and port_284 protocol_31  with port_6 and port_92641
+node_32 is communicating with node_37 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_20
+node_44 is communicating with node_37 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_52
+node_10 is communicating with node_42 on  protocol_1  with port_6 and port_33
+node_19 is communicating with node_4 on  protocol_1  with port_6 and port_16
+node_22 is communicating with node_38 on  protocol_1  with port_17 and port_286 protocol_1  with port_6 and port_10
+node_16 is communicating with node_6 on  protocol_1  with port_17 and port_284 protocol_43  with port_6 and port_1126 protocol_1  with port_6 and port_10 protocol_772  with port_6 and port_750
+node_1 is communicating with node_27 on  protocol_1  with port_6 and port_16
+node_50 is communicating with node_35 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_16
+node_10 is communicating with node_9 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16
+node_1 is communicating with node_18 on  protocol_1  with port_17 and port_284
+node_47 is communicating with node_12 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_16 protocol_2  with port_6 and port_73292
+node_19 is communicating with node_20 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_20
+node_30 is communicating with node_40 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_10 protocol_3  with port_17 and port_6
+node_22 is communicating with node_39 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_13 protocol_2  with port_17 and port_774 protocol_6  with port_6 and port_3538
+node_17 is communicating with node_46 on  protocol_1  with port_17 and port_280 protocol_18  with port_6 and port_0
+node_74 is communicating with node_68 on  protocol_2  with port_17 and port_722
+node_19 is communicating with node_41 on  protocol_1  with port_6 and port_20
+node_26 is communicating with node_19 on  protocol_1  with port_17 and port_284
+node_35 is communicating with node_5 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_48
+node_5 is communicating with node_26 on  protocol_1  with port_17 and port_282
+node_53 is communicating with node_32 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16
+node_44 is communicating with node_39 on  protocol_4  with port_17 and port_4 protocol_1  with port_17 and port_286 protocol_2  with port_17 and port_224 protocol_6  with port_6 and port_2978
+node_21 is communicating with node_37 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_26
+node_7 is communicating with node_37 on  protocol_1  with port_6 and port_10
+node_57 is communicating with node_17 on  protocol_1  with port_6 and port_20 protocol_2  with port_17 and port_222 protocol_6  with port_6 and port_2152
+node_110 is communicating with node_102 on  protocol_2305  with port_6 and port_1476
+node_33 is communicating with node_6 on  protocol_1  with port_6 and port_16
+node_41 is communicating with node_27 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_20
+node_50 is communicating with node_42 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_36
+node_46 is communicating with node_21 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_16
+node_51 is communicating with node_47 on  protocol_1  with port_6 and port_32
+node_7 is communicating with node_2 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_10
+node_34 is communicating with node_28 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_30
+node_40 is communicating with node_51 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_10 protocol_31  with port_6 and port_25624
+node_46 is communicating with node_1 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_66
+node_3 is communicating with node_11 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_16
+node_24 is communicating with node_31 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16
+node_7 is communicating with node_42 on  protocol_24  with port_6 and port_590 protocol_1  with port_17 and port_282
+node_7 is communicating with node_50 on  protocol_1  with port_6 and port_10
+node_16 is communicating with node_31 on  protocol_38  with port_6 and port_3570 protocol_905  with port_6 and port_3596 protocol_916  with port_6 and port_18781 protocol_1  with port_17 and port_284 protocol_775  with port_6 and port_6529 protocol_1  with port_6 and port_22 protocol_912  with port_6 and port_17847 protocol_919  with port_6 and port_5397 protocol_42  with port_6 and port_55642 protocol_911  with port_6 and port_3202 protocol_40  with port_6 and port_2308
+node_10 is communicating with node_53 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_44 protocol_2  with port_6 and port_119702
+node_8 is communicating with node_27 on  protocol_1  with port_17 and port_282
+node_43 is communicating with node_57 on  protocol_1  with port_6 and port_32 protocol_2  with port_6 and port_1080
+node_41 is communicating with node_13 on  protocol_1  with port_6 and port_10
+node_69 is communicating with node_59 on  protocol_73  with port_17 and port_5 protocol_74  with port_17 and port_3
+node_38 is communicating with node_13 on  protocol_1  with port_17 and port_278 protocol_1  with port_6 and port_10
+node_24 is communicating with node_34 on  protocol_1  with port_6 and port_10
+node_3 is communicating with node_33 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_10
+node_53 is communicating with node_10 on  protocol_1  with port_6 and port_54
+node_64 is communicating with node_66 on  protocol_3  with port_17 and port_6
+node_48 is communicating with node_57 on  protocol_1  with port_6 and port_10
+node_5 is communicating with node_29 on  protocol_1  with port_17 and port_284
+node_38 is communicating with node_47 on  protocol_1  with port_6 and port_32
+node_40 is communicating with node_27 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_10
+node_51 is communicating with node_45 on  protocol_1030  with port_6 and port_7667 protocol_1131  with port_6 and port_46908 protocol_1120  with port_6 and port_2338 protocol_1119  with port_6 and port_4532 protocol_1205  with port_6 and port_14882 protocol_1321  with port_6 and port_43800 protocol_1092  with port_6 and port_4271 protocol_1008  with port_6 and port_11758 protocol_1040  with port_6 and port_106423 protocol_1289  with port_6 and port_217865 protocol_1114  with port_6 and port_9212 protocol_50  with port_6 and port_48 protocol_1  with port_6 and port_20 protocol_1386  with port_6 and port_10697 protocol_264  with port_6 and port_495 protocol_1341  with port_6 and port_332 protocol_1398  with port_6 and port_23882 protocol_1261  with port_6 and port_14129 protocol_1222  with port_6 and port_9131 protocol_355  with port_6 and port_7909 protocol_1240  with port_6 and port_4449 protocol_1158  with port_6 and port_59877 protocol_31  with port_6 and port_333469 protocol_1093  with port_6 and port_15911 protocol_1216  with port_6 and port_564 protocol_1081  with port_6 and port_53405
+node_50 is communicating with node_48 on  protocol_779  with port_6 and port_300 protocol_1  with port_17 and port_284 protocol_12  with port_6 and port_30954
+node_5 is communicating with node_11 on  protocol_1  with port_17 and port_284
+node_51 is communicating with node_21 on  protocol_1  with port_17 and port_284
+node_41 is communicating with node_39 on  protocol_1  with port_6 and port_20 protocol_2  with port_17 and port_5680 protocol_6  with port_6 and port_15208
+node_37 is communicating with node_46 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16
+node_34 is communicating with node_20 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_10 protocol_7  with port_6 and port_667
+node_57 is communicating with node_30 on  protocol_1  with port_6 and port_38
+node_23 is communicating with node_37 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_52
+node_5 is communicating with node_31 on  protocol_1  with port_6 and port_60
+node_1 is communicating with node_44 on  protocol_11  with port_6 and port_14656 protocol_1  with port_6 and port_48
+node_39 is communicating with node_27 on  protocol_1  with port_6 and port_10 protocol_18  with port_6 and port_0 protocol_15  with port_6 and port_730 protocol_23  with port_6 and port_200
+node_31 is communicating with node_2 on  protocol_1  with port_6 and port_30 protocol_2  with port_6 and port_55674
+node_31 is communicating with node_51 on  protocol_1  with port_17 and port_266 protocol_1  with port_6 and port_16
+node_46 is communicating with node_43 on  protocol_1  with port_6 and port_36
+node_37 is communicating with node_19 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_10
+node_57 is communicating with node_15 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_16
+node_1 is communicating with node_28 on  protocol_11  with port_6 and port_14174 protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_42
+node_7 is communicating with node_12 on  protocol_1  with port_17 and port_280
+node_57 is communicating with node_24 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_16
+node_8 is communicating with node_4 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16
+node_30 is communicating with node_6 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_20
+node_44 is communicating with node_30 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_30
+node_46 is communicating with node_49 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_22
+node_46 is communicating with node_20 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_16
+node_28 is communicating with node_9 on  protocol_1  with port_6 and port_21
+node_16 is communicating with node_34 on  protocol_12  with port_6 and port_5991
+node_1 is communicating with node_38 on  protocol_1  with port_17 and port_282
+node_32 is communicating with node_16 on  protocol_1  with port_6 and port_10
+node_19 is communicating with node_51 on  protocol_1  with port_6 and port_10
+node_15 is communicating with node_46 on  protocol_9  with port_6 and port_3774 protocol_1  with port_6 and port_20
+node_19 is communicating with node_57 on  protocol_1  with port_17 and port_64
+node_31 is communicating with node_37 on  protocol_776  with port_6 and port_320
+node_57 is communicating with node_41 on  protocol_1  with port_6 and port_10
+node_35 is communicating with node_1 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16
+node_30 is communicating with node_2 on  protocol_1  with port_6 and port_16
+node_21 is communicating with node_51 on  protocol_1  with port_6 and port_20
+node_26 is communicating with node_5 on  protocol_11  with port_6 and port_1354
+node_15 is communicating with node_4 on  protocol_9  with port_6 and port_96 protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_42 protocol_10  with port_6 and port_4885
+node_48 is communicating with node_4 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_16
+node_153 is communicating with node_59 on  protocol_73  with port_17 and port_5 protocol_74  with port_17 and port_3
+node_53 is communicating with node_20 on  protocol_1  with port_17 and port_282
+node_54 is communicating with node_66 on  protocol_3  with port_17 and port_8
+node_24 is communicating with node_5 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_16
+node_47 is communicating with node_8 on  protocol_1  with port_6 and port_16
+node_53 is communicating with node_18 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_38
+node_47 is communicating with node_38 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_48
+node_5 is communicating with node_32 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_26
+node_23 is communicating with node_43 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_30 protocol_31  with port_6 and port_20783
+node_9 is communicating with node_40 on  protocol_3  with port_17 and port_6 protocol_1  with port_6 and port_30
+node_15 is communicating with node_6 on  protocol_43  with port_6 and port_1381 protocol_1  with port_6 and port_10 protocol_772  with port_6 and port_750
+node_14 is communicating with node_5 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_10
+node_47 is communicating with node_10 on  protocol_909  with port_6 and port_70120 protocol_1  with port_6 and port_66
+node_28 is communicating with node_11 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_20
+node_47 is communicating with node_32 on  protocol_1  with port_6 and port_32
+node_51 is communicating with node_13 on  protocol_34  with port_6 and port_10918 protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16 protocol_35  with port_6 and port_11229 protocol_36  with port_6 and port_19
+node_26 is communicating with node_35 on  protocol_1  with port_17 and port_282
+node_15 is communicating with node_26 on  protocol_1  with port_6 and port_10
+node_28 is communicating with node_45 on  protocol_1  with port_17 and port_278 protocol_1  with port_6 and port_10
+node_22 is communicating with node_24 on  protocol_1  with port_6 and port_10
+node_17 is communicating with node_37 on  protocol_18  with port_6 and port_407 protocol_1  with port_6 and port_13
+node_2 is communicating with node_22 on  protocol_1  with port_6 and port_10
+node_64 is communicating with node_101 on  protocol_3  with port_17 and port_8
+node_29 is communicating with node_41 on  protocol_1  with port_6 and port_30
+node_13 is communicating with node_25 on  protocol_8  with port_6 and port_1069
+node_27 is communicating with node_13 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_26
+node_23 is communicating with node_6 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_10
+node_31 is communicating with node_9 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_26
+node_28 is communicating with node_40 on  protocol_3  with port_17 and port_6 protocol_1  with port_6 and port_10
+node_24 is communicating with node_1 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_16
+node_2 is communicating with node_9 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_10
+node_1 is communicating with node_57 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_30 protocol_2  with port_6 and port_43881
+node_30 is communicating with node_17 on  protocol_4  with port_17 and port_4 protocol_1  with port_17 and port_284 protocol_2  with port_17 and port_228 protocol_6  with port_6 and port_2870
+node_133 is communicating with node_110 on  protocol_5  with port_6 and port_34382
+node_44 is communicating with node_15 on  protocol_1  with port_17 and port_284
+node_34 is communicating with node_3 on  protocol_1  with port_6 and port_10
+node_47 is communicating with node_57 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_22 protocol_2  with port_6 and port_42991
+node_33 is communicating with node_20 on  protocol_1  with port_6 and port_20
+node_30 is communicating with node_8 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16
+node_8 is communicating with node_5 on  protocol_1  with port_6 and port_16
+node_8 is communicating with node_39 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_41 protocol_2  with port_17 and port_224 protocol_6  with port_6 and port_3769
+node_7 is communicating with node_49 on  protocol_43  with port_6 and port_419 protocol_1  with port_6 and port_64 protocol_33  with port_6 and port_6267
+node_37 is communicating with node_42 on  protocol_1  with port_17 and port_280
+node_10 is communicating with node_21 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_16
+node_31 is communicating with node_50 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16
+node_47 is communicating with node_40 on  protocol_3  with port_17 and port_8
+node_7 is communicating with node_48 on  protocol_1  with port_6 and port_10 protocol_12  with port_6 and port_25746
+node_33 is communicating with node_47 on  protocol_1  with port_6 and port_32
+node_49 is communicating with node_41 on  protocol_1  with port_6 and port_10
+node_53 is communicating with node_27 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_16
+node_32 is communicating with node_50 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16
+node_11 is communicating with node_20 on  protocol_1  with port_6 and port_32
+node_38 is communicating with node_50 on  protocol_1  with port_17 and port_284
+node_43 is communicating with node_26 on  protocol_1  with port_17 and port_282
+node_32 is communicating with node_48 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_30 protocol_12  with port_6 and port_33154
+node_39 is communicating with node_57 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_10 protocol_18  with port_6 and port_0 protocol_23  with port_6 and port_200 protocol_2  with port_6 and port_2715
+node_45 is communicating with node_7 on  protocol_1  with port_17 and port_282 protocol_12  with port_6 and port_7190
+node_47 is communicating with node_44 on  protocol_11  with port_6 and port_23470 protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_48
+node_6 is communicating with node_39 on  protocol_1  with port_17 and port_58 protocol_2  with port_17 and port_1366 protocol_6  with port_6 and port_3300
+node_17 is communicating with node_4 on  protocol_18  with port_6 and port_0 protocol_1  with port_6 and port_19
+node_5 is communicating with node_39 on  protocol_1  with port_6 and port_30 protocol_2  with port_17 and port_212 protocol_6  with port_6 and port_2003
+node_37 is communicating with node_20 on  protocol_1  with port_6 and port_10
+node_38 is communicating with node_21 on  protocol_1  with port_6 and port_30
+node_44 is communicating with node_46 on  protocol_1  with port_6 and port_42
+node_33 is communicating with node_5 on  protocol_11  with port_6 and port_3054 protocol_1  with port_6 and port_10
+node_8 is communicating with node_13 on  protocol_1  with port_6 and port_16
+node_43 is communicating with node_33 on  protocol_1543  with port_6 and port_211 protocol_1660  with port_6 and port_37167 protocol_1740  with port_6 and port_10474 protocol_1679  with port_6 and port_103866 protocol_1454  with port_6 and port_664 protocol_1991  with port_6 and port_1509 protocol_2083  with port_6 and port_241301 protocol_2067  with port_6 and port_48625 protocol_2030  with port_6 and port_86 protocol_1542  with port_6 and port_21 protocol_1685  with port_6 and port_4300 protocol_1  with port_17 and port_282 protocol_1432  with port_6 and port_123583 protocol_50  with port_6 and port_45 protocol_1  with port_6 and port_10 protocol_1445  with port_6 and port_185 protocol_1637  with port_6 and port_31 protocol_1791  with port_6 and port_151014 protocol_1666  with port_6 and port_11856 protocol_1784  with port_6 and port_2652 protocol_1773  with port_6 and port_14762 protocol_1695  with port_6 and port_124832 protocol_1572  with port_6 and port_76597 protocol_1584  with port_6 and port_4172 protocol_1632  with port_6 and port_8443 protocol_2081  with port_6 and port_50704 protocol_340  with port_6 and port_1973 protocol_1598  with port_6 and port_7803 protocol_1446  with port_6 and port_9532 protocol_1703  with port_6 and port_4498 protocol_1664  with port_6 and port_5490 protocol_1532  with port_6 and port_3600 protocol_1992  with port_6 and port_28781 protocol_31  with port_6 and port_415475 protocol_1526  with port_6 and port_736 protocol_815  with port_6 and port_4579 protocol_1464  with port_6 and port_10172
+node_38 is communicating with node_51 on  protocol_1  with port_6 and port_20
+node_44 is communicating with node_27 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_10
+node_6 is communicating with node_22 on  protocol_1  with port_6 and port_20
+node_40 is communicating with node_28 on  protocol_11  with port_6 and port_15145 protocol_1  with port_17 and port_282
+node_10 is communicating with node_25 on  protocol_8  with port_6 and port_348
+node_5 is communicating with node_16 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_22
+node_47 is communicating with node_18 on  protocol_1  with port_6 and port_38
+node_2 is communicating with node_5 on  protocol_1  with port_17 and port_282
+node_45 is communicating with node_44 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_30
+node_4 is communicating with node_24 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_80
+node_23 is communicating with node_39 on  protocol_2  with port_17 and port_10722 protocol_4  with port_6 and port_1812 protocol_6  with port_6 and port_20535
+node_87 is communicating with node_59 on  protocol_73  with port_17 and port_5 protocol_74  with port_17 and port_3
+node_5 is communicating with node_48 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_10 protocol_12  with port_6 and port_46573
+node_30 is communicating with node_32 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_10
+node_28 is communicating with node_53 on  protocol_1  with port_17 and port_284
+node_54 is communicating with node_55 on  protocol_3  with port_17 and port_6
+node_19 is communicating with node_27 on  protocol_1  with port_6 and port_10
+node_17 is communicating with node_23 on  protocol_1  with port_17 and port_284 protocol_3  with port_17 and port_8 protocol_18  with port_6 and port_462 protocol_2  with port_17 and port_1794
+node_28 is communicating with node_8 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_10
+node_31 is communicating with node_47 on  protocol_1  with port_17 and port_282
+node_31 is communicating with node_28 on  protocol_11  with port_6 and port_19515 protocol_1  with port_6 and port_32
+node_32 is communicating with node_26 on  protocol_1  with port_6 and port_30
+node_48 is communicating with node_35 on  protocol_24  with port_6 and port_590 protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_10
+node_15 is communicating with node_49 on  protocol_43  with port_6 and port_7186 protocol_1  with port_6 and port_16 protocol_33  with port_6 and port_2170
+node_19 is communicating with node_7 on  protocol_1  with port_6 and port_40 protocol_12  with port_6 and port_232
+node_57 is communicating with node_8 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_16
+node_42 is communicating with node_7 on  protocol_1  with port_6 and port_20 protocol_12  with port_6 and port_7655
+node_13 is communicating with node_40 on  protocol_1  with port_6 and port_10 protocol_3  with port_17 and port_6
+node_35 is communicating with node_46 on  protocol_1  with port_6 and port_16
+node_8 is communicating with node_3 on  protocol_1  with port_6 and port_10
+node_38 is communicating with node_57 on  protocol_1  with port_6 and port_16
+node_3 is communicating with node_2 on  protocol_1  with port_6 and port_11
+node_27 is communicating with node_7 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_10 protocol_12  with port_6 and port_3312
+node_16 is communicating with node_30 on  protocol_1  with port_17 and port_282 protocol_9  with port_6 and port_96 protocol_1  with port_6 and port_10
+node_51 is communicating with node_2 on  protocol_1  with port_6 and port_10 protocol_2  with port_6 and port_2160
+node_19 is communicating with node_37 on  protocol_1  with port_6 and port_20
+node_27 is communicating with node_10 on  protocol_1  with port_6 and port_48
+node_38 is communicating with node_24 on  protocol_1  with port_17 and port_278 protocol_1  with port_6 and port_20
+node_48 is communicating with node_53 on  protocol_1  with port_6 and port_20
+node_35 is communicating with node_26 on  protocol_1  with port_6 and port_20
+node_33 is communicating with node_30 on  protocol_1  with port_17 and port_282 protocol_9  with port_6 and port_366 protocol_1  with port_6 and port_36
+node_51 is communicating with node_50 on  protocol_1  with port_17 and port_128 protocol_1  with port_6 and port_20
+node_12 is communicating with node_11 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_10
+node_41 is communicating with node_32 on  protocol_1  with port_6 and port_20
+node_34 is communicating with node_4 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_16
+node_5 is communicating with node_57 on  protocol_1  with port_6 and port_20
+node_1 is communicating with node_37 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_16
+node_5 is communicating with node_50 on  protocol_1  with port_6 and port_16
+node_3 is communicating with node_31 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_48
+node_11 is communicating with node_53 on  protocol_2  with port_6 and port_287657
+node_37 is communicating with node_30 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_10
+node_49 is communicating with node_4 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_54
+node_57 is communicating with node_34 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_10
+node_16 is communicating with node_24 on  protocol_771  with port_6 and port_360 protocol_770  with port_6 and port_1136 protocol_769  with port_6 and port_1017 protocol_1  with port_17 and port_46
+node_40 is communicating with node_13 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_20
+node_2 is communicating with node_38 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_10
+node_11 is communicating with node_44 on  protocol_1  with port_6 and port_64
+node_3 is communicating with node_10 on  protocol_1  with port_17 and port_92 protocol_1  with port_6 and port_32
+node_64 is communicating with node_141 on  protocol_3  with port_17 and port_6
+node_2 is communicating with node_11 on  protocol_1  with port_17 and port_280
+node_9 is communicating with node_13 on  protocol_1  with port_17 and port_278 protocol_1  with port_6 and port_48
+node_14 is communicating with node_17 on  protocol_1  with port_17 and port_282 protocol_2  with port_17 and port_222 protocol_6  with port_6 and port_3204
+node_43 is communicating with node_3 on  protocol_3  with port_6 and port_18683
+node_21 is communicating with node_10 on  protocol_1  with port_6 and port_16
+node_2 is communicating with node_37 on  protocol_1  with port_17 and port_182 protocol_1  with port_6 and port_20
+node_37 is communicating with node_11 on  protocol_1  with port_6 and port_16
+node_2 is communicating with node_1 on  protocol_1  with port_6 and port_48
+node_35 is communicating with node_28 on  protocol_11  with port_6 and port_10455 protocol_1  with port_6 and port_20
+node_14 is communicating with node_1 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_32
+node_42 is communicating with node_23 on  protocol_1  with port_17 and port_282 protocol_3  with port_17 and port_6 protocol_1  with port_6 and port_10
+node_53 is communicating with node_39 on  protocol_2  with port_17 and port_220 protocol_6  with port_6 and port_2939
+node_32 is communicating with node_21 on  protocol_1  with port_6 and port_10
+node_47 is communicating with node_33 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_20
+node_13 is communicating with node_8 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_16
+node_45 is communicating with node_50 on  protocol_1  with port_6 and port_26
+node_18 is communicating with node_43 on  protocol_1  with port_6 and port_42 protocol_31  with port_6 and port_5681
+node_4 is communicating with node_11 on  protocol_1  with port_6 and port_13
+node_13 is communicating with node_19 on  protocol_1  with port_17 and port_280
+node_35 is communicating with node_13 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_32
+node_48 is communicating with node_18 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_52
+node_51 is communicating with node_25 on  protocol_8  with port_6 and port_378
+node_45 is communicating with node_23 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_20 protocol_3  with port_17 and port_6
+node_16 is communicating with node_38 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_20
+node_14 is communicating with node_28 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_10
+node_53 is communicating with node_2 on  protocol_1  with port_6 and port_16 protocol_2  with port_6 and port_5382
+node_14 is communicating with node_57 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_32
+node_17 is communicating with node_51 on  protocol_1  with port_17 and port_280
+node_11 is communicating with node_41 on  protocol_1  with port_6 and port_16
+node_20 is communicating with node_14 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_20
+node_23 is communicating with node_10 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_48
+node_44 is communicating with node_6 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_20
+node_51 is communicating with node_39 on  protocol_1  with port_6 and port_26 protocol_2  with port_17 and port_1750 protocol_6  with port_6 and port_4350
+node_4 is communicating with node_42 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_32
+node_17 is communicating with node_45 on  protocol_1  with port_17 and port_282 protocol_18  with port_6 and port_0 protocol_1  with port_6 and port_43
+node_38 is communicating with node_53 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_42
+node_2 is communicating with node_57 on  protocol_1  with port_17 and port_284 protocol_2  with port_6 and port_5382
+node_37 is communicating with node_23 on  protocol_3  with port_17 and port_6 protocol_1  with port_6 and port_10
+node_15 is communicating with node_34 on  protocol_1  with port_17 and port_284 protocol_12  with port_6 and port_5996
+node_17 is communicating with node_20 on  protocol_1  with port_17 and port_284 protocol_1  with port_6 and port_26 protocol_18  with port_6 and port_0
+node_32 is communicating with node_4 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_36
+node_1 is communicating with node_49 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_22
+node_19 is communicating with node_48 on  protocol_1  with port_17 and port_280 protocol_12  with port_6 and port_28804
+node_19 is communicating with node_16 on  protocol_1  with port_6 and port_26
+node_19 is communicating with node_6 on  protocol_1  with port_17 and port_280 protocol_1  with port_6 and port_40
+node_11 is communicating with node_8 on  protocol_908  with port_6 and port_280 protocol_1  with port_17 and port_283
+node_6 is communicating with node_9 on  protocol_1  with port_17 and port_282 protocol_1  with port_6 and port_10
+node_50 is communicating with node_30 on  protocol_1  with port_6 and port_16
+node_31 is communicating with node_26 on  protocol_1  with port_6 and port_10
+node_48 is communicating with node_50 on  protocol_1  with port_6 and port_16
